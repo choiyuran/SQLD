@@ -1,2 +1,0 @@
-java output.Ex07
--> bin폴더 주소창에 cmd를 쳐서 cmd창에서 실행
